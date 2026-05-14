@@ -1,0 +1,15 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "A Node.js CLI calculator with comprehensive unit tests",
+  "main": "src/calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["calculator", "cli"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
